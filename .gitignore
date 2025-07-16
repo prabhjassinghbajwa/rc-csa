@@ -1,1 +1,4 @@
 rc-csa/.env
+node_modules
+env.txt
+rc-csa/env.txt
